@@ -1,0 +1,21 @@
+Viewing a diff helped me compare two files.
+By viewing this comparison, I could identify differences.
+By viewing the differences, I could audit which ones were intentional.
+
+Having access to the history of a file will help identify future bugs.
+
+Manually choosing when to commit makes it easier to audit later.
+
+Coding files are interdependent so it makes sense to allow saving multiple files in one commit.
+
+1. git log to see the log of commits. scroll down using down arrow
+2. git diff firstid secondid to see differences between commits
+
+Git will make me more confident in coding because I can try things and recover if I break anything.
+
+I want to use Git so I can share my work.
+
+Creating a repository
+$ git init # to initialize empty Git repository in current working directory
+$ git log
+$ git status
