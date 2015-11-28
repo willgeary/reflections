@@ -1,0 +1,5 @@
+Create remote repository on Github
+
+$ git remote add origin git@github.com:willgeary/reflections.git
+
+$ git push origin master
