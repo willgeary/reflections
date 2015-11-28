@@ -1,0 +1,9 @@
+Initialize a repository to start git tracking
+
+Add files to git staging area
+$ git add file.txt
+
+Staging area is a middle ground between the working directory and the repository
+
+Commit files from staging area to repository
+git commit
